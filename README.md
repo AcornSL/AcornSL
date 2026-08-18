@@ -1,4 +1,4 @@
-# AcornSL
+# AcornSL 🐿
 
 An AI-powered American Sign Language learning companion that combines real-time sign recognition with an on-device LLM for conversational practice and grammar feedback.
 
